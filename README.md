@@ -1,0 +1,1 @@
+# vertx-kotlin-serialization-json-codec
